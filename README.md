@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Technical trainner who is passionate about all things [Java](https://www.youtube.com/watch?v=wJ3xxFwncFk&ab_channel=Java) :coffee: 
+
+Working with Sparta Global to train Java Developers and SDETS
+
 <!--
 **MGadhvi/MGadhvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
