@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![An image of @mgadhvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mgadhvi)](https://holopin.io/@mgadhvi)
-![MGadhvi's Stats](https://github-readme-stats.vercel.app/api?username=MGadhvi&theme=solarized-dark&show_icons=true&hide_border=false&count_private=false)
+![MGadhvi's Stats](https://github-readme-stats.vercel.app/api?username=MGadhvi&theme=nord&show_icons=true&hide_border=true&count_private=true)
 <!--
 **MGadhvi/MGadhvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
