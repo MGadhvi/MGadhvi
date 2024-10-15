@@ -1,7 +1,8 @@
 ## Hi there 👋
-👋 Hi there! I'm a passionate coder and educator who thrives on sharing knowledge and empowering others through technology. With a solid foundation in Java and Spring, I've built robust applications that solve real-world problems. Lately, I've been diving into the fascinating world of GUIX, Emacs, and Lisp languages, where I find joy in exploring their unique paradigms and capabilities. Whether I'm crafting elegant code or mentoring aspiring developers, my goal is to inspire creativity and foster a love for programming in everyone I meet. Let's connect and collaborate on exciting projects! 🚀
+👋 Hi there! I'm a passionate coder and educator who thrives on sharing knowledge and empowering others through technology. With a solid foundation in Java and Spring, I've built robust applications that solve real-world problems. Lately, I've been diving into the fascinating world of GUIX, Emacs, and Lisp languages, where I find joy in exploring their unique paradigms and capabilities. Whether I'm crafting elegant code or mentoring aspiring developers, my goal is to inspire creativity and foster a love for programming in everyone I meet. Let's connect and collaborate on exciting projects! 🚀   
 [![An image of @mgadhvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mgadhvi)](https://holopin.io/@mgadhvi)
-![MGadhvi's Stats](https://github-readme-stats.vercel.app/api?username=MGadhvi&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![MGadhvi's Stats](https://github-readme-stats.vercel.app/api?username=MGadhvi&theme=nord&show_icons=true&hide_border=true&count_private=true)  
+![mgadhvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgadhvi&theme=nord&show_icons=true&hide_border=true&layout=compact)
 <!--
 **MGadhvi/MGadhvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
